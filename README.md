@@ -1,1 +1,0 @@
-# Telegram Weather Bot py
